@@ -2,7 +2,7 @@
 
 # Hi, I'm Adem Hosni 👋
 
-### Aspiring AI/ML Engineer · Backend Developer · Systems Security Background
+### Aspiring AI/ML Engineer · Systems Engineer · Security Engineering Background
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Freelance%20%26%20Internships-success?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based%20in-Tunisia-blue?style=for-the-badge)
@@ -14,11 +14,11 @@
 
 ### 🧠 About Me
 
-I'm an 18-year-old developer currently focused on **Artificial Intelligence & Machine Learning**, building on a solid foundation in backend development and systems-level security engineering.
+I'm an 18-year-old developer currently focused on **Artificial Intelligence & Machine Learning**, building on a solid foundation in systems engineering and security architecture.
 
-Before moving toward AI/ML, I spent significant time in low-level systems programming and security architecture — including building and scaling a production anticheat system that protected thousands of daily users. That experience sharpened my problem-solving and architecture skills, and I now bring it into how I approach ML and backend work.
+Before moving toward AI/ML, I spent significant time in low-level systems programming and security architecture — including building and scaling a production anticheat system that protected thousands of daily users. That experience sharpened my problem-solving and architecture skills, and I now bring it into how I approach ML and software engineering.
 
-I'm self-studying AI/ML (currently working with **PyTorch**) while staying active across backend and full-stack development. I deliver complete, end-to-end solutions and I'm currently open to **freelance work** and **internships**.
+I'm self-studying AI/ML (currently working with **PyTorch**) while staying active across systems, backend, and full-stack development. I deliver complete, end-to-end solutions and I'm currently open to **freelance work** and **internships**.
 
 ---
 
@@ -93,17 +93,16 @@ A solo-built game security system that detected memory hacking and code injectio
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adem-hosni&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://YOUR-OWN-VERCEL-DOMAIN.vercel.app/api?username=adem-hosni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adem-hosni&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 
 ---
 
 ### 📫 Let's Connect
 
-Whether you're a recruiter looking for someone with strong fundamentals and a growing AI/ML skill set, or a business owner who needs reliable backend work — I'd love to talk.
+Whether you're a recruiter looking for someone with strong systems fundamentals and a growing AI/ML skill set, or a business owner who needs well-engineered software — I'd love to talk.
 
 <div align="center">
 
