@@ -1,98 +1,112 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+# Hi, I'm Adem Hosni 👋
+
+### Systems Security Engineer · Backend Developer · AI/ML Researcher in training
+
+![Open to Work](https://img.shields.io/badge/Open%20to-Freelance%20%26%20Internships-success?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based%20in-Tunisia-blue?style=for-the-badge)
+
+</div>
+
+---
+
+### 🧠 About Me
+
+I'm an 18-year-old developer with a strong foundation in **low-level systems programming**, **high-performance security architecture**, and **scalable backend infrastructure**. I enjoy working close to the metal — memory, processes, signatures — as much as I enjoy designing backends that stay fast and stable under thousands of concurrent users.
+
+I'm currently deepening my skill set in **AI/ML**, studying it independently alongside my systems and backend work, with the goal of bringing ML-driven detection and automation into security and infrastructure projects.
+
+I'm adaptable across the stack — from Assembly to React — and I deliver complete, end-to-end solutions rather than isolated pieces. Currently open to **freelance work** and **internships** where I can add immediate technical value.
+
+---
+
+### 💻 Technical Arsenal
+
+**Low-Level & Systems**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases & Infrastructure**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Currently Learning — AI/ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Scripting**
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+---
+
+### 🚀 Highlighted Project: Universal Anticheat System
+
+A comprehensive game security system that detected memory hacking and code injection across multiple game titles — built solo and operated at scale, protecting **thousands of daily active users** until its successful, planned conclusion.
+
+**🔧 Client-Side Engine — Performance & Security**
+- Built a high-performance memory scanning engine in **C++ and Assembly**, operating at the system level for low-latency detection.
+- Designed a custom signature-scanning algorithm to identify the processes and hooks used by memory hackers to manipulate game memory in real time.
+- Shipped a lightweight user-facing agent and launcher using a hybrid **C++ / C#** architecture for speed and usability.
+
+**🌐 Server-Side Architecture — Scalability & Reliability**
+- Architected a resilient, dual-component server ecosystem built to absorb high daily traffic without downtime.
+- Built the commercial API in **Python (Django)**, handling secure customer authentication, automated payments, and user provisioning.
+- Developed a high-throughput telemetry service processing constant heartbeat signals from **thousands of concurrent clients**, tracking session state and player telemetry in real time with zero added latency for end users.
+
+**Impact:** end-to-end ownership of a security product — from Assembly-level detection logic to a production backend handling payments and live telemetry at scale.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HYPER-00.HYPER-00&left_text=Visitors"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-###
+> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username so the stats render correctly.
 
-<h2 align="left"><b>About me</b></h2>
+---
 
-###
+### 📫 Let's Connect
 
-<p align="left">I'm <b>Hyper</b>. from <b>Tunisia</b><br><br>- 🔭 I develop <b>Softwares</b><br>- ⚡ My Discord account name: <b>hyper_x86</b></p>
-
-###
-
-<h2 align="left">🔥 <b>My Github Stats</b>:</h2>
-
-###
-
-<br clear="both">
+Whether you're a recruiter looking for someone with deep systems knowledge, or a business owner who needs secure, scalable architecture — I'd love to talk.
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HYPER-00&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&order=3" height="165" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HYPER-00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="155" alt="languages graph"  />
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
 </div>
 
-###
+<div align="center">
 
-<h2 align="left">🛠 <b>Language and tools</b></h2>
+*"Building secure, high-performance systems — from the lowest levels of memory to scalable cloud backends."*
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
-</div>
-
-###
