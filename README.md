@@ -2,10 +2,11 @@
 
 # Hi, I'm Adem Hosni 👋
 
-### Systems Security Engineer · Backend Developer · AI/ML Researcher in training
+### Aspiring AI/ML Engineer · Backend Developer · Systems Security Background
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Freelance%20%26%20Internships-success?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based%20in-Tunisia-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Current%20Focus-AI%2FML-orange?style=for-the-badge)
 
 </div>
 
@@ -13,22 +14,20 @@
 
 ### 🧠 About Me
 
-I'm an 18-year-old developer with a strong foundation in **low-level systems programming**, **high-performance security architecture**, and **scalable backend infrastructure**. I enjoy working close to the metal — memory, processes, signatures — as much as I enjoy designing backends that stay fast and stable under thousands of concurrent users.
+I'm an 18-year-old developer currently focused on **Artificial Intelligence & Machine Learning**, building on a solid foundation in backend development and systems-level security engineering.
 
-I'm currently deepening my skill set in **AI/ML**, studying it independently alongside my systems and backend work, with the goal of bringing ML-driven detection and automation into security and infrastructure projects.
+Before moving toward AI/ML, I spent significant time in low-level systems programming and security architecture — including building and scaling a production anticheat system that protected thousands of daily users. That experience sharpened my problem-solving and architecture skills, and I now bring it into how I approach ML and backend work.
 
-I'm adaptable across the stack — from Assembly to React — and I deliver complete, end-to-end solutions rather than isolated pieces. Currently open to **freelance work** and **internships** where I can add immediate technical value.
+I'm self-studying AI/ML (currently working with **PyTorch**) while staying active across backend and full-stack development. I deliver complete, end-to-end solutions and I'm currently open to **freelance work** and **internships**.
 
 ---
 
 ### 💻 Technical Arsenal
 
-**Low-Level & Systems**
+**🤖 AI/ML — Current Focus**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Backend & APIs**
 
@@ -52,31 +51,41 @@ I'm adaptable across the stack — from Assembly to React — and I deliver comp
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Currently Learning — AI/ML**
+**🛠️ Systems & Security Background**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Scripting**
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
 
-### 🚀 Highlighted Project: Universal Anticheat System
+### 🌱 Currently Building
 
-A comprehensive game security system that detected memory hacking and code injection across multiple game titles — built solo and operated at scale, protecting **thousands of daily active users** until its successful, planned conclusion.
+Actively building AI/ML projects as I learn — check my pinned repositories for ongoing work in this space.
 
-**🔧 Client-Side Engine — Performance & Security**
-- Built a high-performance memory scanning engine in **C++ and Assembly**, operating at the system level for low-latency detection.
-- Designed a custom signature-scanning algorithm to identify the processes and hooks used by memory hackers to manipulate game memory in real time.
-- Shipped a lightweight user-facing agent and launcher using a hybrid **C++ / C#** architecture for speed and usability.
+---
 
-**🌐 Server-Side Architecture — Scalability & Reliability**
-- Architected a resilient, dual-component server ecosystem built to absorb high daily traffic without downtime.
-- Built the commercial API in **Python (Django)**, handling secure customer authentication, automated payments, and user provisioning.
-- Developed a high-throughput telemetry service processing constant heartbeat signals from **thousands of concurrent clients**, tracking session state and player telemetry in real time with zero added latency for end users.
+### 🚀 Projects
 
-**Impact:** end-to-end ownership of a security product — from Assembly-level detection logic to a production backend handling payments and live telemetry at scale.
+<details>
+<summary><b>🔐 Universal Anticheat System — Game Security Engineering (Past Project)</b></summary>
+<br>
+
+A solo-built game security system that detected memory hacking and code injection across multiple titles, protecting <b>thousands of daily active users</b> in production until its planned conclusion.
+
+- Built a system-level memory scanning engine in **C++ & Assembly**, with a custom signature-scanning algorithm to detect the hooks used by memory hackers in real time.
+- Shipped a lightweight **C++/C#** launcher and user-facing agent.
+- Architected a dual-component backend: a **Django** API handling auth, payments, and provisioning, plus a high-throughput telemetry service processing heartbeat signals from thousands of concurrent clients with zero added latency.
+
+**Why it matters:** end-to-end ownership of a security product — from Assembly-level detection to a production backend handling payments and live telemetry at scale — though my focus has since shifted toward AI/ML.
+
+</details>
+
+<br>
+
+> More projects coming soon as my AI/ML work develops — feel free to check my pinned repos for the latest.
 
 ---
 
@@ -84,18 +93,17 @@ A comprehensive game security system that detected memory hacking and code injec
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adem-hosni&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adem-hosni&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username so the stats render correctly.
 
 ---
 
 ### 📫 Let's Connect
 
-Whether you're a recruiter looking for someone with deep systems knowledge, or a business owner who needs secure, scalable architecture — I'd love to talk.
+Whether you're a recruiter looking for someone with strong fundamentals and a growing AI/ML skill set, or a business owner who needs reliable backend work — I'd love to talk.
 
 <div align="center">
 
@@ -107,6 +115,6 @@ Whether you're a recruiter looking for someone with deep systems knowledge, or a
 
 <div align="center">
 
-*"Building secure, high-performance systems — from the lowest levels of memory to scalable cloud backends."*
+*"Building intelligent systems on top of strong engineering fundamentals."*
 
 </div>
