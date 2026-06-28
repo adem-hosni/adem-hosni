@@ -18,7 +18,7 @@ I'm an 18-year-old developer currently focused on **Artificial Intelligence & Ma
 
 Before moving toward AI/ML, I spent significant time in low-level systems programming and security architecture — including building and scaling a production anticheat system that protected thousands of daily users. That experience sharpened my problem-solving and architecture skills, and I now bring it into how I approach ML and software engineering.
 
-I'm self-studying AI/ML (currently working with **PyTorch**) while staying active across systems, backend, and full-stack development. I deliver complete, end-to-end solutions and I'm currently open to **freelance work** and **internships**.
+I'm self-studying AI/ML while staying active across systems, backend, and full-stack development. I deliver complete, end-to-end solutions and I'm currently open to **freelance work** and **internships**.
 
 ---
 
