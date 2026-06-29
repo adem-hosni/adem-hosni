@@ -89,7 +89,7 @@ A solo-built game security system that detected memory hacking and code injectio
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adem-hosni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com/?user=adem-hosni&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adem-hosni&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
