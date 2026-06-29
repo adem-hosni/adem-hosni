@@ -2,7 +2,7 @@
 
 # Hi, I'm Adem Hosni 👋
 
-### Aspiring AI/ML Engineer · Systems Engineer · Security Engineering Background
+### Aspiring AI/ML Engineer · Security Engineering Background
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Freelance%20%26%20Internships-success?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based%20in-Tunisia-blue?style=for-the-badge)
