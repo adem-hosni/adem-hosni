@@ -16,7 +16,7 @@
 
 I'm an 18-year-old developer currently focused on **Artificial Intelligence & Machine Learning**, building on a solid foundation in systems engineering and security architecture.
 
-Before moving toward AI/ML, I spent significant time in low-level systems programming and security architecture — including building and scaling a production anticheat system that protected thousands of daily users. That experience sharpened my problem-solving and architecture skills, and I now bring it into how I approach ML and software engineering.
+Before moving toward AI/ML, I spent significant time in low-level systems programming and security architecture, including building and scaling a production anticheat system that protected thousands of daily users. That experience sharpened my problem-solving and architecture skills, and I now bring it into how I approach ML and software engineering.
 
 I'm self-studying AI/ML while staying active across systems, backend, and full-stack development. I deliver complete, end-to-end solutions and I'm currently open to **freelance work** and **internships**.
 
@@ -59,14 +59,14 @@ I'm self-studying AI/ML while staying active across systems, backend, and full-s
 
 ### 🌱 Currently Building
 
-Actively building AI/ML projects as I learn — check my pinned repositories for ongoing work in this space.
+Actively building AI/ML projects as I learn, check my pinned repositories for ongoing work in this space.
 
 ---
 
 ### 🚀 Projects
 
 <details>
-<summary><b>🔐 Universal Anticheat System — Game Security Engineering (Past Project)</b></summary>
+<summary><b>🔐 Universal Anticheat System, Game Security Engineering (Past Project)</b></summary>
 <br>
 
 A solo-built game security system that detected memory hacking and code injection across multiple titles, protecting <b>thousands of daily active users</b> in production until its planned conclusion.
@@ -75,13 +75,13 @@ A solo-built game security system that detected memory hacking and code injectio
 - Shipped a lightweight **C++/C#** launcher and user-facing agent.
 - Architected a dual-component backend: a **Django** API handling auth, payments, and provisioning, plus a high-throughput telemetry service processing heartbeat signals from thousands of concurrent clients with zero added latency.
 
-**Why it matters:** end-to-end ownership of a security product — from Assembly-level detection to a production backend handling payments and live telemetry at scale — though my focus has since shifted toward AI/ML.
+**Why it matters:** end-to-end ownership of a security product, from Assembly-level detection to a production backend handling payments and live telemetry at scale, though my focus has since shifted toward AI/ML.
 
 </details>
 
 <br>
 
-> More projects coming soon as my AI/ML work develops — feel free to check my pinned repos for the latest.
+> More projects coming soon as my AI/ML work develops, feel free to check my pinned repos for the latest.
 
 ---
 
@@ -90,7 +90,6 @@ A solo-built game security system that detected memory hacking and code injectio
 <div align="center">
 
 ![GitHub Stats](https://streak-stats.demolab.com/?user=adem-hosni&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adem-hosni&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -98,7 +97,7 @@ A solo-built game security system that detected memory hacking and code injectio
 
 ### 📫 Let's Connect
 
-Whether you're a recruiter looking for someone with strong systems fundamentals and a growing AI/ML skill set, or a business owner who needs well-engineered software — I'd love to talk.
+Whether you're a recruiter looking for someone with strong systems fundamentals and a growing AI/ML skill set, or a business owner who needs well-engineered software, I'd love to talk.
 
 <div align="center">
 
